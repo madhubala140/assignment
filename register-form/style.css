@@ -1,0 +1,35 @@
+h1{
+    text-align: center;
+}
+
+body{
+    background-color: rgb(34, 100, 140);
+    background: linear-gradient(gray, yellow);
+}
+#main{
+background-color: aquamarine;
+margin: 20vh auto 0 auto;
+padding: 30px;
+width: 400px;
+border-radius: 5px;
+}
+#main h1{
+    color:grey;
+}
+form button{
+    background-color: goldenrod;
+    margin:20px 0px;
+    width:100%;
+}
+.first{
+    flex-direction: column;
+    display: flex;
+}
+.first1{
+    margin:20px 0px;
+}
+.error{
+    color:rgb(242, 18, 18);
+    font-size:16px;
+    margin-top:5px;
+}
