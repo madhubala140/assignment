@@ -1,0 +1,35 @@
+body {
+  font-family: sans-serif;
+  font-family: "Roboto", sans-serif;
+}
+#sb-heading {
+  color: blueviolet;
+  padding-right: 0.5rem;
+  padding-top: 0rem;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.125rem;
+}
+.sb-item {
+  padding: 0.031rem 0.031rem 0.031rem 0.031rem;
+  margin-top: 0.25rem;
+  cursor: pointer;
+}
+.sb-item:hover {
+  font-weight: bold;
+  font-weight: 37.5rem;
+  background-color: #f0f0f0;
+}
+.sidebar {
+  border-top-right-radius: 0.625rem;
+  border-color: #dadada;
+  border: 0.063rem solid;
+  text-transform: uppercase;
+  margin: 1rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  padding-left: 0rem;
+  padding-right: 0rem;
+  width: 10rem;
+  height: 80vh;
+}

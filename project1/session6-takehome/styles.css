@@ -1,0 +1,50 @@
+body {
+  background-color: #ffe4c4;
+  font-family: sans-serif;
+  border-top-left-radius: 0.625rem;
+}
+.blog-card {
+  min-width: 8rem;
+  min-height: 8 rem;
+  max-width: 16 rem;
+  border-radius: 0.625rem;
+  margin-bottom: 1 rem;
+  border-top-right-radius: 10px;
+  background-color: rgb(250, 250, 250);
+}
+.card-image {
+  height: 100%;
+  width: 100%;
+  border-top-left-radius: 0.625rem;
+}
+.card-content {
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-bottom: 1rem;
+  padding-top: 0rem;
+}
+.card-body h2 {
+  text-transform: uppercase;
+  font-size: 0.75rem;
+  opacity: 0.5;
+  margin-bottom: 0;
+}
+.card-body h1 {
+  font-size: 1.3125rem;
+  margin-bottom: 1.5rem;
+}
+.card-body p {
+  opacity: 0.6;
+  font-size: 0.9rem;
+}
+.card-footer {
+  font-size: 0.8rem;
+  align-items: center;
+  justify-content: space-between;
+  color: rgb(109, 109, 235);
+  text-decoration: none;
+  display: flex;
+}
+ul li {
+  list-style: none;
+}

@@ -1,0 +1,12 @@
+/* ul li {
+  display: inline;
+}
+span {
+  visibility: hidden;
+} */
+.card {
+  width: 180px;
+  height: 200px;
+  object-fit: cover;
+  margin: 20px 20px 75px 100px;
+}
