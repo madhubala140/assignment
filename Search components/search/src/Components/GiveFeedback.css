@@ -1,0 +1,16 @@
+.feedBack {
+    background-color: black;
+    color: green;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: bold; 
+    border-radius: 7px;
+    cursor: pointer;
+    margin: 20px auto;
+    }
+    
+    .feedback:hover {
+      background-color: #45a049;
+    }
